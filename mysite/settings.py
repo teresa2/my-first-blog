@@ -26,7 +26,7 @@ SECRET_KEY = '$mkg6@s99+ctl)l)z=x^vpxmro_t8x%)o$^4=@u$sg85g7g#5_'
 DEBUG = True
 
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = 'blogteste2.pythonanywhere.com' 
 
 
 # Application definition
